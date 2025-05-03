@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+numpy
+librosa
+pydub
+transformers
+torch  # required for Hugging Face models
+scipy  # required for librosa
+typing_extensions  # sometimes needed for backwards compatibility
